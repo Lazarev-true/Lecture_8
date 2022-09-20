@@ -1,0 +1,15 @@
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+I:\Git\Lecture_8\Task\bin\Debug\net6.0\Task.exe
+I:\Git\Lecture_8\Task\bin\Debug\net6.0\Task.deps.json
+I:\Git\Lecture_8\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+I:\Git\Lecture_8\Task\bin\Debug\net6.0\Task.dll
+I:\Git\Lecture_8\Task\bin\Debug\net6.0\Task.pdb
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\Task.dll
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\refint\Task.dll
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\Task.pdb
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+I:\Git\Lecture_8\Task\obj\Debug\net6.0\ref\Task.dll
